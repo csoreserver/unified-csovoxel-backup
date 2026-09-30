@@ -1,0 +1,2 @@
+*.vmg filter=lfs diff=lfs merge=lfs -text
+*.vxl filter=lfs diff=lfs merge=lfs -text
